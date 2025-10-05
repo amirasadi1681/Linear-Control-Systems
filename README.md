@@ -46,16 +46,20 @@ The entire workflow includes system modeling, control design, simulation, and pe
 
 ## 📊 Simulation and Results
 
-- The designed controllers stabilized the system in all degrees of freedom.  
-- Transient responses exhibited minimal overshoot and fast convergence to steady-state.  
-- Frequency-domain analyses confirmed sufficient phase and gain margins.  
-- Simulink visualizations demonstrated realistic control behavior under step inputs.
+The designed controllers successfully stabilized the system in all degrees of freedom.
 
-Below is an overview of the simulation environment:
+- Step responses showed minimal overshoot and fast settling.  
+- Frequency-domain analysis confirmed sufficient gain and phase margins.  
+- Simulink simulations visualized stable hover and trajectory tracking.
 
+### 🔹 Simulink Environment
 ![Simulink Model](docs/figures/simulink_model.png)
 
+### 🔹 Quadrotor Dynamic Model
+![Quadrotor Model](docs/figures/quad_model.png)
+
 ---
+
 
 ## 🚀 How to Run
 
