@@ -3,11 +3,6 @@
 This project was developed as part of the **Linear Control Systems** course.  
 It focuses on modeling, linearizing, and designing SISO controllers for a quadrotor drone around hover conditions using MATLAB and Simulink.
 
-> **Team:** Group 6 — Amirhossein Asadi, Ali Shafigh, Nima Taraqi, Parsa Ramezani  
-> **Instructor:** Prof. Talebi  
-> **Tools:** MATLAB (Control System Toolbox) & Simulink  
-> **University:** Amirkabir University of Technology (Tehran Polytechnic)
-
 ---
 
 ## Overview
