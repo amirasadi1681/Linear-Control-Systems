@@ -58,6 +58,12 @@ The designed controllers successfully stabilized the system in all degrees of fr
 ### 🔹 Quadrotor Dynamic Model
 ![Quadrotor Model](docs/figures/quad_model.png)
 
+### 🔹 Control Performance Analysis
+Below are the main analysis plots, including **Step Response**, **Bode Diagram**, **Nyquist Plot**, and **Root Locus**, verifying the designed PD controller’s stability and robustness:
+
+![Control Analysis](docs/figures/G_y4_u1_cal.jpg)
+
+
 ---
 
 
