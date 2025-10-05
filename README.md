@@ -1,4 +1,5 @@
 # Quadrotor Control Using Linear Control Approaches
+[![View Presentation](https://img.shields.io/badge/Prezi_Presentation-Click_to_View-blue?style=flat-square&logo=prezi)](https://prezi.com/view/pKVziI47jyfyDhwvlBkc/)
 
 This project presents the modeling, analysis, and control design of a **quadrotor** using classical linear control techniques.  
 The objective is to stabilize and control the drone’s altitude and attitude through PD and PI/PD controllers, designed and validated in MATLAB and Simulink.
